@@ -35,5 +35,3 @@ I am a 5th semester Computer Science student based in Poland :
 
 - :money_with_wings: Django Rest API for uploading images and making different dimension thumbnails: [REPO](https://github.com/claude-perrin/DRFImageUpload)
 - :fire: Django website for scrapping and saving proxies for a future use: [REPO](https://github.com/claude-perrin/djangoProxyScrapper)
-- :wrench: Multiformat File Compressor (Using Huffman algorithm): [REPO](https://github.com/andriybobchuk/Huffman) | [README](https://github.com/andriybobchuk/Huffman/blob/master/DOCUMENTATION.pdf)
-
