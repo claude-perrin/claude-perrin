@@ -13,6 +13,8 @@ I am a 5th semester Computer Science student based in Poland :
 
 - :seedling: I am currenly working in Python, mainly in Django, DRF, scraping
 
+- :brain: Experienced in database designing. PostgreSQL, Mariadb
+
 - 💌 I am using such tools as: Redis, Docker, AWS, Celery
 
 - :factory: Strive for the clean app architecture: I use GoF Design Patterns, MVVM, MVC, MVP
